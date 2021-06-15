@@ -1,0 +1,16 @@
+{
+  "name": "quality_test_engineer_sap_task2",
+  "version": "1.0.0",
+  "description": "Quality and Test Engineer part-time (SAP) - Task 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maxim Nikulcha",
+  "license": "ISC",
+  "dependencies": {
+    "@sap_oss/odata-library": "^0.10.1",
+    "jasmine": "^3.7.0"
+  }
+}
