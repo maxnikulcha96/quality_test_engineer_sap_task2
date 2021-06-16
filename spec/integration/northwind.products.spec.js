@@ -14,7 +14,7 @@ describe("Northwind public OData API", () => {
             return service.init.then(() => {
                 return service.Products.count();
             }).then((countOfProducts) => {
-                assert(countOfProducts > 999);
+                assert(countOfProducts > 0);
             });
         });
     });
