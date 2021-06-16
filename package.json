@@ -19,9 +19,6 @@
   ],
   "author": "Maxim Nikulcha",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/maxnikulcha96/quality_test_engineer_sap_task2/issues"
-  },
   "dependencies": {
     "@sap_oss/odata-library": "^0.10.1",
     "jasmine": "^3.7.0"
