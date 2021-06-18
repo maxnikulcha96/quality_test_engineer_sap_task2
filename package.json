@@ -13,9 +13,10 @@
   "keywords": [
     "SAP",
     "OData",
-    "Javascript",
-    "Jasmine",
-    "Northwind"
+    "Northwind",
+    "JavaScript",
+    "Node.js",
+    "Jasmine"
   ],
   "author": "Maxim Nikulcha",
   "license": "ISC",
